@@ -1,0 +1,5 @@
+<resources>
+    <string name="webview_update">Aktualisiere Android System WebView, um Ruyi Imager zu verwenden.</string>
+    <string name="flashing">Schreibvorgang über USB läuft</string>
+    <string name="flash_channel">Schreiben über USB</string>
+</resources>

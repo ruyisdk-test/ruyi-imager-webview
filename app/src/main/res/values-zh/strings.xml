@@ -1,0 +1,5 @@
+<resources>
+    <string name="webview_update">请更新 Android System WebView 以使用 Ruyi Imager。</string>
+    <string name="flashing">正在通过 USB 刷写</string>
+    <string name="flash_channel">USB 刷写</string>
+</resources>

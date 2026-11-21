@@ -1,0 +1,5 @@
+<resources>
+    <string name="webview_update">Update Android System WebView to use Ruyi Imager.</string>
+    <string name="flashing">USB flashing in progress</string>
+    <string name="flash_channel">USB flashing</string>
+</resources>
